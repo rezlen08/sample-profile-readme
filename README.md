@@ -14,3 +14,5 @@ I am a student at the University of Texas at San Antonio pursuing a Bachelor of 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chloe-jen-307a1b410)
 
 _"As long as you are learning, you are not failing."_
+
+<img width="449" height="445" alt="image" src="https://github.com/user-attachments/assets/765fdab0-b341-4e56-98dd-3373024f2527" />
