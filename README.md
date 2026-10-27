@@ -2,16 +2,25 @@
 ##  About Me
 I am a student at the University of Texas at San Antonio pursuing a Bachelor of Science in Cybersecurity. This profile has been made for my IS-1003-009 course!
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/d458abe8-481e-4570-9c0b-f2c0ee8c9d22" />
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/30cd48e6-e893-45ab-8859-eacf3cba2780" />
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/8e77eb46-85d5-4257-9c52-e4845c53aa7d" />
+
+
+
 ## 🎉 Interests
-![Programming](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/85f23004-bb72-4fce-a12b-9f12862a2be4" />
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/a82f245d-acca-4823-8834-7997c84670c9" />
+<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/d72870d2-2ba6-45e6-ba8e-eacf374523d4" />
+
+
+
+
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/rezlen08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chloe-jen-307a1b410)
+[<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/9866bb65-bb6d-4e82-9c22-95e0a4b796d2"  />](https://github.com/rezlen08)
+[<img width="130" height="25" alt="image" src="https://github.com/user-attachments/assets/3e461dd8-1fb3-4bae-a71b-1da5ab966528" />](https://linkedin.com/in/chloe-jen-307a1b410)
+
+
 
 _"As long as you are learning, you are not failing."_
 
