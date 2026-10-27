@@ -1,4 +1,4 @@
-w## 👏 Hi, I'm Chloe Jen!
+👏 Hi, I'm Chloe Jen!
 ##  About Me
 I am a student at the University of Texas at San Antonio pursuing a Bachelor of Science in Cybersecurity. This profile has been made for my IS-1003-009 course!
 ## ⚒️ Skills
