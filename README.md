@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Chloe Jen!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a student at the University of Texas at San Antonio pursuing a Bachelor of Science in Cybersecurity. This profile has been made for my IS-1003-009 course!
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
